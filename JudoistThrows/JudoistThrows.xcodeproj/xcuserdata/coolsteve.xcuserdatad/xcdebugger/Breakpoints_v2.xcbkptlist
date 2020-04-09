@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "92BEC5F8-26C8-4225-91C5-392C96059C9A"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B062BDD7-1329-4967-B2DD-CA06AA2DCCAA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tetiija Fitness/jonyTimerViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "71"
+            endingLineNumber = "71"
+            landmarkName = "onTimer(sender:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B062BDD7-1329-4967-B2DD-CA06AA2DCCAA - 7e13910942f6c065"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tetiija_Fitness.TimerViewController.onTimer(sender: Swift.Optional&lt;Any&gt;) -&gt; ()"
+                  moduleName = "Tetiija Fitness"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/coolsteve/Downloads/Tetiija%20%D0%A4%D0%B8%D1%82%D0%BD%D0%B5%D1%81/Tetiija%20Fitness/Tetiija%20Fitness/jonyTimerViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "73"
+                  endingLineNumber = "73"
+                  offsetFromSymbolStart = "4160">
+               </Location>
+               <Location
+                  uuid = "B062BDD7-1329-4967-B2DD-CA06AA2DCCAA - 7e13910942f6c065"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tetiija_Fitness.TimerViewController.onTimer(sender: Swift.Optional&lt;Any&gt;) -&gt; ()"
+                  moduleName = "Tetiija Fitness"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/coolsteve/Downloads/Tetiija%20%D0%A4%D0%B8%D1%82%D0%BD%D0%B5%D1%81/Tetiija%20Fitness/Tetiija%20Fitness/jonyTimerViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "73"
+                  endingLineNumber = "73"
+                  offsetFromSymbolStart = "4284">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F5BB8C7E-3885-48C0-BCC1-A32892785C2E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tetiija Fitness/jonyTimerViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
+            landmarkName = "onTimer(sender:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

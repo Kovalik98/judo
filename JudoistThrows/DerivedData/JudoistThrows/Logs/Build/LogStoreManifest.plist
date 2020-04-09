@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>0B6B7D4A-B9FD-407F-9B98-5F5076FBE240</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0B6B7D4A-B9FD-407F-9B98-5F5076FBE240.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>JudoistThrows project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>JudoistThrows</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build JudoistThrows</string>
+			<key>timeStartedRecording</key>
+			<real>600813642.75610495</real>
+			<key>timeStoppedRecording</key>
+			<real>600813642.92176402</real>
+			<key>title</key>
+			<string>Build JudoistThrows</string>
+			<key>uniqueIdentifier</key>
+			<string>0B6B7D4A-B9FD-407F-9B98-5F5076FBE240</string>
+		</dict>
+		<key>4184B5A5-89B1-4DFA-AE72-926AA5D02017</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4184B5A5-89B1-4DFA-AE72-926AA5D02017.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>JudoistThrows project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>JudoistThrows</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build JudoistThrows</string>
+			<key>timeStartedRecording</key>
+			<real>600813564.87595904</real>
+			<key>timeStoppedRecording</key>
+			<real>600813565.09460998</real>
+			<key>title</key>
+			<string>Build JudoistThrows</string>
+			<key>uniqueIdentifier</key>
+			<string>4184B5A5-89B1-4DFA-AE72-926AA5D02017</string>
+		</dict>
+		<key>B6EA15CF-609A-4B64-8598-A12D4C0274D4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B6EA15CF-609A-4B64-8598-A12D4C0274D4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>JudoistThrows project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>JudoistThrows</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build JudoistThrows</string>
+			<key>timeStartedRecording</key>
+			<real>600813597.01939404</real>
+			<key>timeStoppedRecording</key>
+			<real>600813602.87890506</real>
+			<key>title</key>
+			<string>Build JudoistThrows</string>
+			<key>uniqueIdentifier</key>
+			<string>B6EA15CF-609A-4B64-8598-A12D4C0274D4</string>
+		</dict>
+		<key>C5EE88D9-C35A-43B3-8C8D-E2FC4817F561</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C5EE88D9-C35A-43B3-8C8D-E2FC4817F561.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>JudoistThrows project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>JudoistThrows</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build JudoistThrows</string>
+			<key>timeStartedRecording</key>
+			<real>600813480.00221598</real>
+			<key>timeStoppedRecording</key>
+			<real>600813484.94927704</real>
+			<key>title</key>
+			<string>Build JudoistThrows</string>
+			<key>uniqueIdentifier</key>
+			<string>C5EE88D9-C35A-43B3-8C8D-E2FC4817F561</string>
+		</dict>
+		<key>D34D0930-A829-4D2F-84FA-B3A9AFB51ED9</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D34D0930-A829-4D2F-84FA-B3A9AFB51ED9.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>JudoistThrows project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>JudoistThrows</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build JudoistThrows</string>
+			<key>timeStartedRecording</key>
+			<real>600813411.00149703</real>
+			<key>timeStoppedRecording</key>
+			<real>600813414.14263296</real>
+			<key>title</key>
+			<string>Build JudoistThrows</string>
+			<key>uniqueIdentifier</key>
+			<string>D34D0930-A829-4D2F-84FA-B3A9AFB51ED9</string>
+		</dict>
+		<key>F1D6E08A-CC1B-489F-B7D3-99EAEEA41A03</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F1D6E08A-CC1B-489F-B7D3-99EAEEA41A03.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>JudoistThrows project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>JudoistThrows</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build JudoistThrows</string>
+			<key>timeStartedRecording</key>
+			<real>600813201.59233797</real>
+			<key>timeStoppedRecording</key>
+			<real>600813206.29842699</real>
+			<key>title</key>
+			<string>Build JudoistThrows</string>
+			<key>uniqueIdentifier</key>
+			<string>F1D6E08A-CC1B-489F-B7D3-99EAEEA41A03</string>
+		</dict>
+		<key>F7DB0EBB-D927-48B5-B413-39E288C19C3E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F7DB0EBB-D927-48B5-B413-39E288C19C3E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>JudoistThrows project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>JudoistThrows</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build JudoistThrows</string>
+			<key>timeStartedRecording</key>
+			<real>600813627.45667398</real>
+			<key>timeStoppedRecording</key>
+			<real>600813627.55014706</real>
+			<key>title</key>
+			<string>Build JudoistThrows</string>
+			<key>uniqueIdentifier</key>
+			<string>F7DB0EBB-D927-48B5-B413-39E288C19C3E</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

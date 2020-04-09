@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>01D7161A-845C-48F5-AA56-2E86DE855677</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>01D7161A-845C-48F5-AA56-2E86DE855677.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Tetiija Fitness project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Tetiija Fitness</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Tetiija Fitness</string>
+			<key>timeStartedRecording</key>
+			<real>600812125.92453396</real>
+			<key>timeStoppedRecording</key>
+			<real>600812130.65180802</real>
+			<key>title</key>
+			<string>Build Tetiija Fitness</string>
+			<key>uniqueIdentifier</key>
+			<string>01D7161A-845C-48F5-AA56-2E86DE855677</string>
+		</dict>
+		<key>2D93A720-EF32-40E6-9CA2-7A93DC1DE463</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>2D93A720-EF32-40E6-9CA2-7A93DC1DE463.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Tetiija Fitness project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Tetiija Fitness</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Tetiija Fitness</string>
+			<key>timeStartedRecording</key>
+			<real>600810448.11485898</real>
+			<key>timeStoppedRecording</key>
+			<real>600810448.20672405</real>
+			<key>title</key>
+			<string>Build Tetiija Fitness</string>
+			<key>uniqueIdentifier</key>
+			<string>2D93A720-EF32-40E6-9CA2-7A93DC1DE463</string>
+		</dict>
+		<key>3EEB4BB6-15C2-452A-885B-A317DC23B6F8</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3EEB4BB6-15C2-452A-885B-A317DC23B6F8.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Tetiija Fitness project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Tetiija Fitness</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Tetiija Fitness</string>
+			<key>timeStartedRecording</key>
+			<real>600811800.04444695</real>
+			<key>timeStoppedRecording</key>
+			<real>600811810.05085003</real>
+			<key>title</key>
+			<string>Build Tetiija Fitness</string>
+			<key>uniqueIdentifier</key>
+			<string>3EEB4BB6-15C2-452A-885B-A317DC23B6F8</string>
+		</dict>
+		<key>47B65082-DE67-4A74-A4F5-33F8A9257C47</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>47B65082-DE67-4A74-A4F5-33F8A9257C47.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Tetiija Fitness project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Tetiija Fitness</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Tetiija Fitness</string>
+			<key>timeStartedRecording</key>
+			<real>600811561.02057505</real>
+			<key>timeStoppedRecording</key>
+			<real>600811574.10794199</real>
+			<key>title</key>
+			<string>Build Tetiija Fitness</string>
+			<key>uniqueIdentifier</key>
+			<string>47B65082-DE67-4A74-A4F5-33F8A9257C47</string>
+		</dict>
+		<key>5D90547F-B867-4057-98DE-2BEF6FC80FC0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5D90547F-B867-4057-98DE-2BEF6FC80FC0.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Tetiija Fitness project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Tetiija Fitness</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Tetiija Fitness</string>
+			<key>timeStartedRecording</key>
+			<real>600810307.26668894</real>
+			<key>timeStoppedRecording</key>
+			<real>600810317.07466805</real>
+			<key>title</key>
+			<string>Build Tetiija Fitness</string>
+			<key>uniqueIdentifier</key>
+			<string>5D90547F-B867-4057-98DE-2BEF6FC80FC0</string>
+		</dict>
+		<key>5E799542-F92B-4CA4-B13F-608B4863C686</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5E799542-F92B-4CA4-B13F-608B4863C686.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Tetiija Fitness project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Tetiija Fitness</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Tetiija Fitness</string>
+			<key>timeStartedRecording</key>
+			<real>600810403.37052798</real>
+			<key>timeStoppedRecording</key>
+			<real>600810405.060745</real>
+			<key>title</key>
+			<string>Build Tetiija Fitness</string>
+			<key>uniqueIdentifier</key>
+			<string>5E799542-F92B-4CA4-B13F-608B4863C686</string>
+		</dict>
+		<key>73DC458F-FB91-4778-9B89-0DAE9EDEB7DA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>73DC458F-FB91-4778-9B89-0DAE9EDEB7DA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Tetiija Fitness project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Tetiija Fitness</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Tetiija Fitness</string>
+			<key>timeStartedRecording</key>
+			<real>600811924.623487</real>
+			<key>timeStoppedRecording</key>
+			<real>600811930.087587</real>
+			<key>title</key>
+			<string>Build Tetiija Fitness</string>
+			<key>uniqueIdentifier</key>
+			<string>73DC458F-FB91-4778-9B89-0DAE9EDEB7DA</string>
+		</dict>
+		<key>99306D03-75A7-4573-8556-A7503431CEFA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>99306D03-75A7-4573-8556-A7503431CEFA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Tetiija Fitness project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Tetiija Fitness</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Tetiija Fitness</string>
+			<key>timeStartedRecording</key>
+			<real>600812106.07259595</real>
+			<key>timeStoppedRecording</key>
+			<real>600812112.46991503</real>
+			<key>title</key>
+			<string>Build Tetiija Fitness</string>
+			<key>uniqueIdentifier</key>
+			<string>99306D03-75A7-4573-8556-A7503431CEFA</string>
+		</dict>
+		<key>A6DDDE32-B493-49B1-AF21-FCBDB93D3A14</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A6DDDE32-B493-49B1-AF21-FCBDB93D3A14.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Tetiija Fitness project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Tetiija Fitness</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Tetiija Fitness</string>
+			<key>timeStartedRecording</key>
+			<real>600812199.09043801</real>
+			<key>timeStoppedRecording</key>
+			<real>600812203.56129897</real>
+			<key>title</key>
+			<string>Build Tetiija Fitness</string>
+			<key>uniqueIdentifier</key>
+			<string>A6DDDE32-B493-49B1-AF21-FCBDB93D3A14</string>
+		</dict>
+		<key>B007C8A5-0BF5-4533-A6D7-2D01D508CB6C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B007C8A5-0BF5-4533-A6D7-2D01D508CB6C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Tetiija Fitness project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Tetiija Fitness</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Tetiija Fitness</string>
+			<key>timeStartedRecording</key>
+			<real>600811661.47899604</real>
+			<key>timeStoppedRecording</key>
+			<real>600811665.157781</real>
+			<key>title</key>
+			<string>Build Tetiija Fitness</string>
+			<key>uniqueIdentifier</key>
+			<string>B007C8A5-0BF5-4533-A6D7-2D01D508CB6C</string>
+		</dict>
+		<key>B29A00A7-48B3-4D4E-BADA-7DF1C3694B1A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B29A00A7-48B3-4D4E-BADA-7DF1C3694B1A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Tetiija Fitness project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Tetiija Fitness</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Tetiija Fitness</string>
+			<key>timeStartedRecording</key>
+			<real>600811721.14086497</real>
+			<key>timeStoppedRecording</key>
+			<real>600811721.23680496</real>
+			<key>title</key>
+			<string>Build Tetiija Fitness</string>
+			<key>uniqueIdentifier</key>
+			<string>B29A00A7-48B3-4D4E-BADA-7DF1C3694B1A</string>
+		</dict>
+		<key>C91B4512-8D09-4E7A-ABBE-E721F9993527</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C91B4512-8D09-4E7A-ABBE-E721F9993527.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Tetiija Fitness project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Tetiija Fitness</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Tetiija Fitness</string>
+			<key>timeStartedRecording</key>
+			<real>600809060.06339502</real>
+			<key>timeStoppedRecording</key>
+			<real>600809060.33751798</real>
+			<key>title</key>
+			<string>Build Tetiija Fitness</string>
+			<key>uniqueIdentifier</key>
+			<string>C91B4512-8D09-4E7A-ABBE-E721F9993527</string>
+		</dict>
+		<key>E6630F11-D48F-4402-A162-B6C139A97F22</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E6630F11-D48F-4402-A162-B6C139A97F22.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Tetiija Fitness project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Tetiija Fitness</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Tetiija Fitness</string>
+			<key>timeStartedRecording</key>
+			<real>600812673.33772695</real>
+			<key>timeStoppedRecording</key>
+			<real>600812681.42915106</real>
+			<key>title</key>
+			<string>Build Tetiija Fitness</string>
+			<key>uniqueIdentifier</key>
+			<string>E6630F11-D48F-4402-A162-B6C139A97F22</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

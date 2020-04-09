@@ -1,0 +1,11 @@
+version: "Apple Swift version 5.1.2 (swiftlang-1100.0.278 clang-1100.0.33.9)"
+options: "84a7b72f6c7bc8dca79fdaca9d7ec7f1"
+build_time: [1579120014, 999354000]
+inputs:
+  "/Users/nazarkovalik/Downloads/Fitness Roll (1.0)/Tetiija Fitness/Tetiija Fitness/jonyKDCircularProgress.swift": [1579119124, 608571043]
+  "/Users/nazarkovalik/Downloads/Fitness Roll (1.0)/Tetiija Fitness/Tetiija Fitness/jonyFinalViewController.swift": [1579108793, 957102122]
+  "/Users/nazarkovalik/Downloads/Fitness Roll (1.0)/Tetiija Fitness/Tetiija Fitness/jonyTimerViewController.swift": [1579114041, 252327861]
+  "/Users/nazarkovalik/Downloads/Fitness Roll (1.0)/Tetiija Fitness/Tetiija Fitness/jonyViewController.swift": [1579113262, 942987176]
+  "/Users/nazarkovalik/Downloads/Fitness Roll (1.0)/Tetiija Fitness/Tetiija Fitness/AppDelegate.swift": [1536773670, 0]
+  "/Users/nazarkovalik/Downloads/Fitness Roll (1.0)/Tetiija Fitness/Tetiija Fitness/jonyPyramidView.swift": [1579119000, 28194885]
+  "/Users/nazarkovalik/Downloads/Fitness Roll (1.0)/Tetiija Fitness/Tetiija Fitness/jonyDataModel.swift": [1579114824, 218807241]

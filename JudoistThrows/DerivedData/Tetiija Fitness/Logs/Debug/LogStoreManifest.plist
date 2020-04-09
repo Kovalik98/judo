@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>1389A1C5-0066-4352-BA81-DBAC503405EB</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>1389A1C5-0066-4352-BA81-DBAC503405EB.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Tetiija Fitness project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Tetiija Fitness</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Fitness Roll</string>
+			<key>timeStartedRecording</key>
+			<real>600811930.093135</real>
+			<key>timeStoppedRecording</key>
+			<real>600812106.17911005</real>
+			<key>title</key>
+			<string>Debug Fitness Roll</string>
+			<key>uniqueIdentifier</key>
+			<string>1389A1C5-0066-4352-BA81-DBAC503405EB</string>
+		</dict>
+		<key>3BA8F74D-F60B-4EE3-B603-EABB4D09309D</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>3BA8F74D-F60B-4EE3-B603-EABB4D09309D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Tetiija Fitness project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Tetiija Fitness</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Fitness Roll</string>
+			<key>timeStartedRecording</key>
+			<real>600812112.47566903</real>
+			<key>timeStoppedRecording</key>
+			<real>600812126.086537</real>
+			<key>title</key>
+			<string>Debug Fitness Roll</string>
+			<key>uniqueIdentifier</key>
+			<string>3BA8F74D-F60B-4EE3-B603-EABB4D09309D</string>
+		</dict>
+		<key>516847AF-C7E0-4B1A-BAC0-B3A6248D47C8</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>516847AF-C7E0-4B1A-BAC0-B3A6248D47C8.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Tetiija Fitness project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Tetiija Fitness</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Fitness Roll</string>
+			<key>timeStartedRecording</key>
+			<real>600810317.11773503</real>
+			<key>timeStoppedRecording</key>
+			<real>600810403.57634604</real>
+			<key>title</key>
+			<string>Debug Fitness Roll</string>
+			<key>uniqueIdentifier</key>
+			<string>516847AF-C7E0-4B1A-BAC0-B3A6248D47C8</string>
+		</dict>
+		<key>6095166C-229B-4744-9DA1-54EFAF9E19FC</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>6095166C-229B-4744-9DA1-54EFAF9E19FC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Tetiija Fitness project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Tetiija Fitness</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Fitness Roll</string>
+			<key>timeStartedRecording</key>
+			<real>600811574.11791003</real>
+			<key>timeStoppedRecording</key>
+			<real>600811661.59328496</real>
+			<key>title</key>
+			<string>Debug Fitness Roll</string>
+			<key>uniqueIdentifier</key>
+			<string>6095166C-229B-4744-9DA1-54EFAF9E19FC</string>
+		</dict>
+		<key>624E9BE3-40D5-4011-8BDE-98DC37A25108</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>624E9BE3-40D5-4011-8BDE-98DC37A25108.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Tetiija Fitness project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Tetiija Fitness</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Fitness Roll</string>
+			<key>timeStartedRecording</key>
+			<real>600811665.16211903</real>
+			<key>timeStoppedRecording</key>
+			<real>600811721.31015694</real>
+			<key>title</key>
+			<string>Debug Fitness Roll</string>
+			<key>uniqueIdentifier</key>
+			<string>624E9BE3-40D5-4011-8BDE-98DC37A25108</string>
+		</dict>
+		<key>6BA31B1D-341E-4632-BC4C-5F5CBC5A4217</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>6BA31B1D-341E-4632-BC4C-5F5CBC5A4217.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Tetiija Fitness project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Tetiija Fitness</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Fitness Roll</string>
+			<key>timeStartedRecording</key>
+			<real>600812681.43667901</real>
+			<key>timeStoppedRecording</key>
+			<real>600812772.490978</real>
+			<key>title</key>
+			<string>Debug Fitness Roll</string>
+			<key>uniqueIdentifier</key>
+			<string>6BA31B1D-341E-4632-BC4C-5F5CBC5A4217</string>
+		</dict>
+		<key>7B2671FF-3C52-4017-A40B-720E9ACD2CC6</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>7B2671FF-3C52-4017-A40B-720E9ACD2CC6.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Tetiija Fitness project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Tetiija Fitness</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Fitness Roll</string>
+			<key>timeStartedRecording</key>
+			<real>600812203.56632102</real>
+			<key>timeStoppedRecording</key>
+			<real>600812673.62242603</real>
+			<key>title</key>
+			<string>Debug Fitness Roll</string>
+			<key>uniqueIdentifier</key>
+			<string>7B2671FF-3C52-4017-A40B-720E9ACD2CC6</string>
+		</dict>
+		<key>9D008CC9-E302-4E3F-A8D9-FDB781147FD1</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>9D008CC9-E302-4E3F-A8D9-FDB781147FD1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Tetiija Fitness project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Tetiija Fitness</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Fitness Roll</string>
+			<key>timeStartedRecording</key>
+			<real>600812130.65553105</real>
+			<key>timeStoppedRecording</key>
+			<real>600812199.25190198</real>
+			<key>title</key>
+			<string>Debug Fitness Roll</string>
+			<key>uniqueIdentifier</key>
+			<string>9D008CC9-E302-4E3F-A8D9-FDB781147FD1</string>
+		</dict>
+		<key>A1D6EB83-328E-45D6-8D94-ADCD70812A09</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>A1D6EB83-328E-45D6-8D94-ADCD70812A09.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Tetiija Fitness project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Tetiija Fitness</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Fitness Roll</string>
+			<key>timeStartedRecording</key>
+			<real>600811721.24282205</real>
+			<key>timeStoppedRecording</key>
+			<real>600811800.232517</real>
+			<key>title</key>
+			<string>Debug Fitness Roll</string>
+			<key>uniqueIdentifier</key>
+			<string>A1D6EB83-328E-45D6-8D94-ADCD70812A09</string>
+		</dict>
+		<key>A5AE9179-DB7B-4D26-B439-EDABD8870632</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>A5AE9179-DB7B-4D26-B439-EDABD8870632.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Tetiija Fitness project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Tetiija Fitness</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Fitness Roll</string>
+			<key>timeStartedRecording</key>
+			<real>600808632.38012695</real>
+			<key>timeStoppedRecording</key>
+			<real>600809060.28688002</real>
+			<key>title</key>
+			<string>Debug Fitness Roll</string>
+			<key>uniqueIdentifier</key>
+			<string>A5AE9179-DB7B-4D26-B439-EDABD8870632</string>
+		</dict>
+		<key>B05E3DF8-7334-4D47-9BD4-98DAC093C059</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>B05E3DF8-7334-4D47-9BD4-98DAC093C059.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Tetiija Fitness project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Tetiija Fitness</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Fitness Roll</string>
+			<key>timeStartedRecording</key>
+			<real>600811810.05563402</real>
+			<key>timeStoppedRecording</key>
+			<real>600811924.81406796</real>
+			<key>title</key>
+			<string>Debug Fitness Roll</string>
+			<key>uniqueIdentifier</key>
+			<string>B05E3DF8-7334-4D47-9BD4-98DAC093C059</string>
+		</dict>
+		<key>CF17F4F6-79F6-4C53-839E-15DE746F2486</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>CF17F4F6-79F6-4C53-839E-15DE746F2486.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Tetiija Fitness project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Tetiija Fitness</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Fitness Roll</string>
+			<key>timeStartedRecording</key>
+			<real>600810405.06642306</real>
+			<key>timeStoppedRecording</key>
+			<real>600810447.04262996</real>
+			<key>title</key>
+			<string>Debug Fitness Roll</string>
+			<key>uniqueIdentifier</key>
+			<string>CF17F4F6-79F6-4C53-839E-15DE746F2486</string>
+		</dict>
+		<key>D31F1E2C-E454-4481-8D1E-672C96233F04</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>D31F1E2C-E454-4481-8D1E-672C96233F04.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Tetiija Fitness project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Tetiija Fitness</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Fitness Roll</string>
+			<key>timeStartedRecording</key>
+			<real>600810448.21008098</real>
+			<key>timeStoppedRecording</key>
+			<real>600811561.28372896</real>
+			<key>title</key>
+			<string>Debug Fitness Roll</string>
+			<key>uniqueIdentifier</key>
+			<string>D31F1E2C-E454-4481-8D1E-672C96233F04</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

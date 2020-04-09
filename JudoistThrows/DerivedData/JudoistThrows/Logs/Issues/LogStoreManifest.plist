@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>659127EB-FF1A-4486-8110-6C1B26C258D1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
+			<key>fileName</key>
+			<string>659127EB-FF1A-4486-8110-6C1B26C258D1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>JudoistThrows-hkwsozgenxlrbwgkmtcxwopejcov</string>
+			<key>timeStartedRecording</key>
+			<real>600813597.42761803</real>
+			<key>timeStoppedRecording</key>
+			<real>600813602.87494004</real>
+			<key>title</key>
+			<string>Build target JudoistThrows</string>
+			<key>uniqueIdentifier</key>
+			<string>659127EB-FF1A-4486-8110-6C1B26C258D1</string>
+		</dict>
+	</dict>
+	<key>preserveOldLogs</key>
+	<true/>
+</dict>
+</plist>
